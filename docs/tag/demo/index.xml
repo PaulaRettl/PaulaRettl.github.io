@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Paula Rettl</title>
+    <link>/tag/demo/</link>
+      <atom:link href="/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Demo</title>
+      <link>/tag/demo/</link>
+    </image>
+    
+    <item>
+      <title>COVID!</title>
+      <link>/project/covid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/covid/</guid>
+      <description>&lt;p&gt;Compliance with mandated health measures has substantial effects on public health, particularly during epidemics. We analyze how political leaders influence such compliance by exploiting President Bolsonaro’s display of skepticism towards COVID-19 during pro-government demonstrations in Brazil. We compare trends of the disease spread around the demonstrations’ date in municipalities with different levels of support for the President. After the demonstrations, the disease spread faster in pro-Bolsonaro municipalities. The results are driven not only by people’s agglomerating during the demonstrations but also by lower compliance with social distancing. Finally, we rule out that pre-existing differences in health-related behavior explain the results. &lt;a href=&#34;https://osf.io/ps2wx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

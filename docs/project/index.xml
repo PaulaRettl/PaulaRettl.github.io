@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Paula Rettl</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hud6529b43832e4c596d0e68f65935fca1_5339_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Words can hurt: how political communication can change the pace of an epidemic</title>
+      <link>/project/covid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/covid/</guid>
+      <description>&lt;p&gt;&lt;em&gt;[with &lt;a href=&#34;https://sites.google.com/view/lucas-argentieri-mariani&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucas Mariani&lt;/a&gt; and &lt;a href=&#34;https://sites.google.com/view/gagete-miranda/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jessica Gagete-Miranda&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Compliance with mandated health measures has substantial effects on public health, particularly during epidemics. We analyze how political leaders influence such compliance by exploiting President Bolsonaro’s display of skepticism towards COVID-19 during pro-government demonstrations in Brazil. We compare trends of the disease spread around the demonstrations’ date in municipalities with different levels of support for the President. After the demonstrations, the disease spread faster in pro-Bolsonaro municipalities. The results are driven not only by people’s agglomerating during the demonstrations but also by lower compliance with social distancing. Finally, we rule out that pre-existing differences in health-related behavior explain the results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The effect of commodity prices on voting for the left and the right in Brazil</title>
+      <link>/project/commodities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/commodities/</guid>
+      <description>&lt;p&gt;How do economic shocks impact electoral outcomes?  I bring novel
+evidence  to  this  debate  by  analyzing  how  a  sharp  drop  in  commodity prices that begun in 2011 affected Brazilian political behavior and
+public opinion.  I do so by computing the exposure of Brazilian municipalities to this sharp drop in commodity prices with an original
+shift-share instrument.  I conclude that in municipalities more exposed
+to a negative commodity shock, right-wing parties had an advantage in
+the 2018 presidential election, while left-wing parties lost support.  By
+linking Manifesto Project scores with electoral data, I show that the
+parties that were benefited from this sharp drop in commodity prices
+had  a  liberal  economic  agenda  and  a  conservative  and  authoritarian
+non-economic  platform.   Using  survey  data,  I  provide  evidence  that
+the  shock  has  an  effect  on  conservative  and  authoritarian  attitudes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elderly</title>
+      <link>/project/elderly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/elderly/</guid>
+      <description>&lt;p&gt;Detailed description here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Threat perceptions and anti-immigration attitudes</title>
+      <link>/project/immigration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/immigration/</guid>
+      <description>&lt;p&gt;Detailed description here&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
